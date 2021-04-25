@@ -1,0 +1,27 @@
+{
+    "update_id": 713150066,
+    "message": {
+        "message_id": 16,
+        "from": {
+            "id": 244386202,
+            "is_bot": false,
+            "first_name": "Fabrizio",
+            "last_name": "Silvestri",
+            "username": "fabriziosilvestri",
+            "language_code": "en"
+        },
+        "chat": {
+            "id": -543732082,
+            "title": "Test My Bot",
+            "type": "group",
+            "all_members_are_administrators": true
+        },
+        "date": 1615639900,
+        "text": "/connect",
+        "entities": [{
+            "offset": 0,
+            "length": 8,
+            "type": "bot_command"
+        }]
+    }
+}
